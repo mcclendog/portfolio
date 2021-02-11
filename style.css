@@ -45,6 +45,13 @@ body, html {
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: auto;
 }
-/* p {
-  font-family: 'Alfa Slab One';
+/* ABOUT ME */
+.buff {
+  margin-top: 100px;
+}
+.movethatboat {
+  margin-left: 550px;
+}
+.movethatbus {
+  margin-right: 300px;
 }

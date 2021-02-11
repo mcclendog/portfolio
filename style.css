@@ -31,9 +31,20 @@ body, html {
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: grey;
 }
-#name {
-  -webkit-text-fill-color: grey;
-}
 .divider {
   width: 400px;
+}
+/* PROJECTS */
+
+.background_color {
+  background-color: rgb(217, 244, 255);
+}
+.font-change {
+  font-family: 'Alfa Slab One';
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: auto;
+}
+/* p {
+  font-family: 'Alfa Slab One';
 }
